@@ -1,0 +1,34 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    font-style:italic;
+    text-align: center;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul {
+    line-height: 40px;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    background-color: burlywood;
+    background-image: none;
+}
+
+p{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: initial;
+    line-height: 40px;
+}
